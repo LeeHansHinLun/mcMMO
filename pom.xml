@@ -430,7 +430,7 @@
         <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-jdbc</artifactId>
-            <version>10.1.0-M17</version>
+            <version>10.1.7</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
